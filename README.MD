@@ -19,7 +19,7 @@ You can try playing the game here https://hangmanwordgame.com/
   * open `hangman.py`
   * Read the comments inside hangman function and read the code, to understand you can also use a debugger.
 
-  ### Task 2 (LOPPING)
+  ### Task 2 (LOOPING)
   When you run this program it will only take user's input once and then will stop
   * You have to take multiple inputs from the user, use a loop for this.
   * Statements like "welcome to the game" should only be printed once, take a note of this
